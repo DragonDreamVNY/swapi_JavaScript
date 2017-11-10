@@ -1,0 +1,10 @@
+INSTRUCTIONS:
+1. unzip the project 'swapi_javascript'
+2. upload entire folder to server via FTP
+    or
+3. move folder to localhost directory. 
+    If running XAMPP or MAMP or other local server.
+    View directory in web browser.
+4. type into the text box: 1000000 
+5. press Submit or press ENTER key
+6. Table appears showing data.
